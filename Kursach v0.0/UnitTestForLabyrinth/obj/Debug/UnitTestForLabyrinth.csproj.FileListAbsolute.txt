@@ -1,0 +1,7 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\bin\Debug\UnitTestForLabyrinth.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\bin\Debug\UnitTestForLabyrinth.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\bin\Debug\Игра Лабиринт.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\bin\Debug\Игра Лабиринт.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\obj\Debug\UnitTestForLabyrinth.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\obj\Debug\UnitTestForLabyrinth.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\UnitTestForLabyrinth\obj\Debug\UnitTestForLabyrinth.pdb

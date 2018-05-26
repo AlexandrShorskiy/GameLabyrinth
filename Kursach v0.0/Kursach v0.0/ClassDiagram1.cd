@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursach_v0._0.Labyrinth">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAACCAAQAAAEIGAAAAKQAAAQAAAIIAAAEAAAAA=</HashCode>
+      <FileName>Labyrinth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.ProgressForm">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAACAAAACQAAADAAAAEAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ProgressForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.FormSettings">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIADACCgABAgAASABACDAAAAAAAAAjAAAAACAAA=</HashCode>
+      <FileName>FormSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.FormLevel1">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IEYBBEAgACACABQAQACAQQACAAEQJhAAADAAgRAAAgQ=</HashCode>
+      <FileName>FormLevel1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.FormInfo">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACBAAAAAAAAAAAAIAAAIA=</HashCode>
+      <FileName>FormInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.FormEndGame">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAGAAEBAAAACAAAACAACAAAAAAAEAAgEAAgA=</HashCode>
+      <FileName>FormEndGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.GenerateLabyrinth">
+    <Position X="2.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAIgEAEAACAAAAAAQQAAAAAAAAAAE=</HashCode>
+      <FileName>GeneratorLabyrinth.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.Settings">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAQAQAAAAAAAAAEQAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Settings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursach_v0._0.Sound">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAIAIAAAACAAAAAAIA=</HashCode>
+      <FileName>Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,16 @@
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach v0.0.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.Labyrinth.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.Properties.Resources.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach v0.0.csproj.GenerateResource.Cache
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.FormLevel1.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.ProgressForm.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.FormInfo.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.FormEndGame.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\bin\Debug\Игра Лабиринт.exe.config
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\bin\Debug\Игра Лабиринт.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\bin\Debug\Игра Лабиринт.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Игра Лабиринт.exe
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Игра Лабиринт.pdb
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach_v0._0.FormSettings.resources
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Interop.AgentWmiLib.dll
+C:\Users\Александр\Documents\Visual Studio 2013\Projects\Kursach v0.0\Kursach v0.0\obj\Debug\Kursach v0.0.csproj.ResolveComReference.cache
